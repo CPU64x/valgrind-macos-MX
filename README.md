@@ -13,8 +13,14 @@ Have docker installed.
 ### Compatibility
 | Operating System         | Version needed |
 | :---:                    | :---:          |
-| MacOS M1 (10.X)          |     1.0 |
-| MacOS M2 (10.X)          |     1.0 |
+| MacOS M1 (10.X)          |     eqdev/valgrind:1.0 |
+| MacOS M2 (10.X)          |     eqdev/valgrind:1.0 |
+
+### Image version :
+| Version         | Available |
+| :---:                    | :---:          |
+| 1.0          |     public code, open source & public docker image |
+| latest          |     reference to docker imager version 1.0 |
 
 ## Copyrights
 

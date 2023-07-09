@@ -4,7 +4,7 @@ A compatible valgrind for MacOS running on M (1/2) using docker
 ## What we need to do to make it work
 
 ### Requirements : 
-Have macOS running on M1/M2 ship.
+Have macOS running on M1/M2 ship.  
 Have docker installed.
 
 ### Launch valgrind

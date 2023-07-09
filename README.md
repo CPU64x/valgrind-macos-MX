@@ -22,6 +22,19 @@ Have docker installed.
 | 1.0          |     public code, open source & public docker image |
 | latest          |     reference to docker imager version 1.0 |
 
+### How can I launch the program
+On your terminal
+> ./valgrind
+
+In the container
+> gcc -g main.c
+
+> valgrind ./a.out
+
+> exit
+
+To quit the container 
+
 ## Copyrights
 
 ```text
